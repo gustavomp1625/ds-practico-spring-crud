@@ -3,7 +3,7 @@ package etec.crud.model
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
-class InstrumentoTests {
+class   InstrumentoTests {
     @Test
     fun `instrumento debe tener id nombre y descripcion opcional`() {
         val instrumento =

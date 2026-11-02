@@ -14,7 +14,7 @@ import org.springframework.test.web.servlet.post
 import org.springframework.test.web.servlet.put
 import kotlin.test.Test
 
-@WebMvcTest(InstrumentoControlador::class)
+@WebMvcTest(    InstrumentoControlador::class)
 class InstrumentoControladorTests {
     @Autowired
     lateinit var api: MockMvc

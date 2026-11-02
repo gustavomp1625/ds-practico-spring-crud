@@ -1,4 +1,4 @@
-package etec.crud
+		package etec.crud
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
